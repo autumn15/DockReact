@@ -1,3 +1,8 @@
-Reference:
-https://nodejs.org/ja/docs/guides/nodejs-docker-webapp/
-https://qiita.com/kerochelo/items/1063da8893026de5ebbf
+# Usage
+
+Docker上で動くReactアプリの生成用
+
+```
+$ chmod +x docker-up.sh
+$ ./docker-up.sh
+```
